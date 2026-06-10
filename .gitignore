@@ -1,0 +1,5 @@
+# 非 Web 页面文件，不部署
+*.docx
+*.pdf
+*.py
+__pycache__/
